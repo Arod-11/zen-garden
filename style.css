@@ -4,13 +4,16 @@ h1 {
 a {
   color:purple
 }
-background {
-
+body {
+  background-color:yellow;
+  color:white
 }
 h2 {
   text-align:center;
 }
-
+#zen-benefits p {
+  text-align: right
+}
 header {
   background-color:black
 }
